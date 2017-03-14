@@ -1,0 +1,20 @@
+//
+//  PrefixHeaders.pch
+//  BaseFrame
+//
+//  Created by wei_yijie on 15/9/17.
+//  Copyright (c) 2015年 showsoft. All rights reserved.
+//
+
+#ifndef BaseFrame_PrefixHeaders_pch
+#define BaseFrame_PrefixHeaders_pch
+
+//常用宏头文件
+#import "Header.h"
+
+#import "BaseViewController.h"
+
+//数据请求头文件
+#import "RequestManager.h"
+
+#endif
